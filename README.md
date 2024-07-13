@@ -11,5 +11,7 @@ Model Architecture:
 The model architecture is based on a convolutional neural network (CNN) designed to extract features from facial images and classify them into different emotion categories. The architecture includes:
 
 1.Convolutional layers for feature extraction
+
 2.Pooling layers for downsampling
+
 3.Fully connected layers for classification
